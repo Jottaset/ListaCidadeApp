@@ -22,6 +22,9 @@ namespace ListaCidadeApp
 
             listacidade.Add(cidade);
             stringlista.Add(cidade.nome + " " + cidade.uf);
+
+            label_cidade.Text = string.Empty;
+            label_estado.Text = string.Empty;
         }
 
         void ChecarDados(object sender, System.EventArgs e)
