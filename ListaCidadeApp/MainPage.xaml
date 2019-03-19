@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ListaCidadeApp" 
+             x:Class="ListaCidadeApp.MainPage">
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="Lista de Cidades!"
+               FontSize="Large"
+               HorizontalOptions="Center" 
+               VerticalOptions="StartAndExpand"/>
+        
+        <Entry Placeholder="Digite a Cidade"
+               x:Name="label_cidade"/>
+        
+        <Entry Placeholder="Digite o Estado"
+               x:Name="label_estado"/>
+        
+        <Button Text="checar Dados"
+                FontSize="20"
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"
+                Clicked="ChecarDados"/>
+        
+        <Button Text="Salvar Dados"
+                FontSize="20"
+                HorizontalOptions="Center" 
+                VerticalOptions="EndAndExpand"
+                Clicked="GravarDados"/>
+        
+    </StackLayout>
+    
+</ContentPage>

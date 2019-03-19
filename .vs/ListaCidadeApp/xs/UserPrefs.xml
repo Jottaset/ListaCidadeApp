@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9048AB50-37B0-4CDE-ACD7-1C689DEB44AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaCidadeApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaCidadeApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListaCidadeApp/MainPage.xaml.cs" Line="16" Column="20" />
+      <File FileName="ListaCidadeApp/MyPageLista.xaml.cs" Line="10" Column="2" />
+      <File FileName="ListaCidadeApp/MainPage.xaml" Line="36" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaCidadeApp" expanded="True">
+            <Node name="ListaCidadeApp" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MyPageLista.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaCidadeApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
