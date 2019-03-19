@@ -34,6 +34,8 @@
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/obj/Debug/R.cs.flag
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/obj/Debug/R.txt
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/obj/Debug/uploadflags.txt
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/obj/Debug/res/drawable/testeimg.gif
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/obj/Debug/res/drawable/fundotest.jpeg
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/bin/Debug/FormsViewGroup.pdb
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/bin/Debug/Mono.Android.pdb
 /Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp.Android/bin/Debug/Xamarin.Forms.Core.pdb

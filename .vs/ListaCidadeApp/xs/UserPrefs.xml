@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{9048AB50-37B0-4CDE-ACD7-1C689DEB44AD}|Default">
   <MonoDevelop.Ide.ItemProperties.ListaCidadeApp.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ListaCidadeApp/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaCidadeApp/MyPageLista.xaml">
     <Files>
-      <File FileName="ListaCidadeApp/MainPage.xaml.cs" Line="16" Column="20" />
+      <File FileName="ListaCidadeApp/MainPage.xaml.cs" Line="27" Column="25" />
       <File FileName="ListaCidadeApp/MyPageLista.xaml.cs" Line="10" Column="2" />
-      <File FileName="ListaCidadeApp/MainPage.xaml" Line="36" Column="15" />
+      <File FileName="ListaCidadeApp/MainPage.xaml" Line="5" Column="47" />
+      <File FileName="ListaCidadeApp/MyPageLista.xaml" Line="11" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,12 +13,10 @@
           <Node name="ListaCidadeApp" expanded="True">
             <Node name="ListaCidadeApp" expanded="True">
               <Node name="Model" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
-              <Node name="MyPageLista.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MyPageLista.xaml" expanded="True" selected="True" />
             </Node>
+            <Node name="ListaCidadeApp.Android" expanded="True" />
           </Node>
         </State>
       </Pad>
